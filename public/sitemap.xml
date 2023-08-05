@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:8080/</loc>
+		
+    <lastmod>2023-08-05T22:07:18Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/incoming/</loc>
+		
+    <lastmod>2023-08-05T21:10:45Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/purchases/</loc>
+		
+    <lastmod>2023-08-05T22:07:18Z</lastmod>
+		
+  </url>
+</urlset>

@@ -1,5 +1,5 @@
 ---
-title: "UCSD FAQ for Indians"
+title: "Incoming International Grad Studnet FAQ"
 description: "A list of potential questions International Grad Students at UCSD may have"
 ---
 
@@ -110,46 +110,41 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 6. **I love fish, where do I buy fresh fish?**
    - **99 Ranch Market** - In convoy street, youc an take the aforementioned Grocery Shuttle on weekends which stops right in front of it. Also sells asian groceries such as Boba packets, Ramen, etc.
 
-## Product Recommendations
+## State ID and Driving License
 
-_**Disclaimer**: These are mostly products that either I or friends have used, buy at your own judgement_
+1. **What is a State ID and do I need one?**
 
-1. **I am not used to using toilet paper, is there a way to use a jet spray/bidet?**
+   - A state ID is simply a document that acts as a proof of your identity. It can used to enter bars, take flights, prove you are a San Diego resident for discounted entry to the Zoo, etc.
 
-   - You can install a bidet in Grad Housing and usually does not require any sort of special tooling to install
-   - [This is the one I personally use](https://amzn.to/45ijkOe) and can say is pretty good.
-   - You can also get [portable ones for travel](https://amzn.to/44XIPEu)
+2. **What is a REAL ID and how does it differ from the State ID/DL**
+   - REAL ID is like a chip based version of the state ID or DL. You can have ONE so you can either get a REAL ID DL or State ID. I would recommend getting the State ID version as it takes time to get a DL
+   - You would need to use a REAL ID take domestic flights in the US (otherwise you need to carry your passport).
+3. **What is the process to get a state ID and DL**
 
-2. **Is the water in San Diego safe to drink? I have heard of Brisa Filters, are they any good?**
+   - Same common form for both, you can apply for both at the same time. Go to [DMV website](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/) and fill out the form
+   - You may need to upload some documents such as two forms of address proof (rental agreement, bank account statement print out and utility bills for OMS/Mesa Housing/off campus residents works) along site immigration documents such as passport, visa, etc.
+   - You can book an appointment or you can walk in, however the line for walking in will be longer. The nearest DMV is in Clairemont.
+   - Carry all documents, wait in line for a token. Provide documents to the staff. If you have signed up for a DL, you will need to clear the MCQ test too, which required 32/40 correct.
+   - If you clear the MCQ, you get a learners license and then you can book a behind the wheel test within a year.
 
-   - The water is safe to drink, however has a pretty bad taste so most people get a Brita Pitcher
-   - [This is](https://amzn.to/43W1dMW) the version most people use for personal use.
-   - If you want a [common one](https://amzn.to/3Omqzhe) for the entire house.
+4. **Do I need an SSN?**
 
-3. **Do I need to change the filter? Where do I get them?**
+   - You do not need an SSN to get a state ID or a drivers license.
+   - However, in some cases the DMV may request you provide an SSN rejection letter which is a document from the SSA office that states that you are not eligible for an SSN.
 
-   - You can purchase the [refills on Amazon](https://www.amazon.com/Brita-35503-Standard-Replacement-Filters/dp/B00004SU18)
+5. **How much are the costs?**
+   - At the time of writing this article - 35$ for the State ID and 41$ for a class C DL
+   - Do note there are extra charges if you pay by card.
+6. **How to prepare for the test?**
+   - Please [read the entire handbook a couple of times](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/) for the first part of the test.
+   - Practice the DMV route (availabe on youtube) by renting a car.
+7. **How to get a car for the behind the wheel test?**
 
-4. **I need a surge protector, what do you recommend?**
+   - You will need to rent a car from a rental car company such as Hertz, Enterprise, etc which needs to insured in your name.
+   - Depending on your circumstances you might need someone with a valid California DL with you.
 
-   - [Tripp Lite](https://amzn.to/3KtwtM8) is prety well reputed and I have used their products, but is slightly higher priced
-   - [Phillips](https://amzn.to/3OFS3j3) if you are on a tigher budget
-
-5. **I need a mattress for my house, what do you recommend?**
-
-   - You need to first pick a size, Twin is the size for personal use, you can get a full size if you want to share or roll around a lot
-   - [Zinus makes good quality beds](https://amzn.to/44W49dG) for those on a budget
-   - [LinenSpa is another brand](https://amzn.to/47hVljU) I've seen people use. Just get whatever is cheaper.
-
-6. **Do I need a bed frame?**
-
-   - They are pretty useful to stash your bags under.
-   - [Amazon Basics](https://amzn.to/45ddgq3) makes some decent ones
-
-7. **What about a desk and chair?**
-   - Walmart in particular has a couple of cheap offerings as long as you're fine with a smaller one.
-   - If you just want to chill with a straight forward offering from Amazon that you can just get at home then I would say go for [something like this](https://amzn.to/3KuXwGO) and [this](https://amzn.to/3DG6Ioh)
-   - However, this is a very personal preference so get what you like the best IMO.
+8. **How many attempts do I get?**
+   - Three for the MCQ based test and three for the behind the wheel test.
 
 ## First Week Checklist
 
