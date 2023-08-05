@@ -1,5 +1,5 @@
 ---
-title: "Incoming International Grad Studnet FAQ"
+title: "Incoming International Grad Student FAQ"
 description: "A list of potential questions International Grad Students at UCSD may have"
 ---
 
@@ -145,6 +145,16 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 
 8. **How many attempts do I get?**
    - Three for the MCQ based test and three for the behind the wheel test.
+
+## Social Security Number
+
+1. **Can international students get a social security number?**
+   - International students are eligible for a social security number if they have get some form of employment in the US. This can be an on campus job, a TA or GSR position, an internship, etc.
+2. **What is the process to get a social security number as TA/GSR?**
+   - Download and print your appointment letter from the Academic Affairs portal
+   - Contact your hiring department's HR and request for an "offer letter". _This needs to be a WET INK_ letter, which means there's a physical sign on it using a pen.
+   - Apply for a support letter from ISPO, this process takes a few business days.
+   - Visit an SSA office with the above three letters along with your usual immigration documents. Nearest one to grad housing is in Little Italy (Note: Google Maps recommends Kearny Mesa but this requires two bus changes and is annoying to get to.)
 
 ## First Week Checklist
 
