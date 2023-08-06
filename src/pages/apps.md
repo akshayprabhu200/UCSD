@@ -14,6 +14,7 @@ description: "A list of apps you want to install after landing here"
 7. Canvas Student - UCSD's LMS, use this to access your scores, assignments and other details regarding your course.
 8. Sydney Health - Insurance card will be available here and you will have access to your claim history and how the claim was processed by Blue Cross Anthem/UCShip
 9. Delta Dental - Dental Insurance card
+10. Spin - The escooters and eBikes around campus use this. Feel free to use 44Q25B01NWJXZE0 to get some bonus ride.
 
 ## Highly Recommended
 
