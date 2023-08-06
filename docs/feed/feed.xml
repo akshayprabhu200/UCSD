@@ -5,27 +5,27 @@
 	
 	<link href="http://localhost:8080/feed/" rel="self"/>
 	<link href="http://localhost:8080"/>
-	<updated>2023-08-05T21:10:45Z</updated>
+	<updated>2023-08-06T00:37:49Z</updated>
 	<id>http://localhost:8080</id>
 	<author>
 		<name></name>
 	</author>
 	
 	<entry>
-		<title>UCSD FAQ for Indians</title>
-		<link href="http://localhost:8080/faq/"/>
+		<title>Incoming International Grad Student FAQ</title>
+		<link href="http://localhost:8080/incoming/"/>
 		<updated>2023-08-05T21:10:45Z</updated>
-		<id>http://localhost:8080/faq/</id>
+		<id>http://localhost:8080/incoming/</id>
 		<content type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: The information is the best of my knowledge, please confirm everything as far as possible at the time of your arrival&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;before-arriving-in-the-us&quot; tabindex=&quot;-1&quot;&gt;Before Arriving in the US&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/faq/#before-arriving-in-the-us&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;before-arriving-in-the-us&quot; tabindex=&quot;-1&quot;&gt;Before Arriving in the US&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/incoming/#before-arriving-in-the-us&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Book a bank appointment!&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://localhost:8080/faq/#banking-in-the-us&quot;&gt;More on banking in the banking section&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8080/incoming/#banking-in-the-us&quot;&gt;More on banking in the banking section&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Banks in the US will NOT entertain you without an appointment. Book an appointment for this while you are in India. This time is peak season to the point the Nobel Drive branch calls in twelve banks from other branches to handle the demand.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.chase.com/meeting-scheduler/getstarted&quot;&gt;The link to book an appointment for chase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://secure.bankofamerica.com/secure-mycommunications/public/appointments/&quot;&gt;The link to book an appointment for chase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.chase.com/meeting-scheduler/getstarted&quot;&gt;The link to book an appointment for Chase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://secure.bankofamerica.com/secure-mycommunications/public/appointments/&quot;&gt;The link to book an appointment for Bank of America&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -36,12 +36,12 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;arrival-in-the-us&quot; tabindex=&quot;-1&quot;&gt;Arrival in the US&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/faq/#arrival-in-the-us&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;arrival-in-the-us&quot; tabindex=&quot;-1&quot;&gt;Arrival in the US&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/incoming/#arrival-in-the-us&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;How do I get from the San Diego Airport to the UCSD Campus?&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Uber&lt;/strong&gt; - The easiest option to get from airport to the campus is obviously and Uber or a Lyft. Naturally, this is a pricier ofoption, regular ones start at around $20 and an XL during peak hours can almost reach $50.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Uber&lt;/strong&gt; - The easiest option to get from airport to the campus is obviously and Uber or a Lyft (Feel free to use the following referral codes: &lt;a href=&quot;https://www.lyft.com/i/AKSHAY37803?utm_medium=p2pi_iacc&quot;&gt;click here for Lyft&lt;/a&gt; or enter AKSHAY37803 for a discount on your rides. Uber doesn&#39;t have such a bonus currently). Naturally, this is a pricier option, regular ones start at around $20 and an XL during peak hours can almost reach $50.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Airport Shuttle&lt;/strong&gt; - This is available during the daylight hours and will take you to the Old Town Transit Centre. From there you can take the UCSD Blue Line Trolley to UTC to get to Grad Housing. For Nuevo East, South Mesa and Mesa Nueva residents please get down at Executive Drive and for all other housing please get down at VA Medical Center&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Car Rental&lt;/strong&gt; - Strongly recommended that you take this option at your own risk as for most international students you will be jet lagged, tired and possibly not used to driving in the US and lastly the legality of driving in the US with an international driver&#39;s license is not entirely clear. Strictly for informational purposes, you can rent a car from the airport, there will be rental car companies such as Hertz, Enterprise, etc who will issue you a car for about $49-60 a day, fuel not included.
 of writing this article, fuel is around $5.5 a US gallon.&lt;/li&gt;
@@ -50,13 +50,13 @@ of writing this article, fuel is around $5.5 a US gallon.&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;How do I get from the Los Angeles Airport to the UCSD Campus?&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Uber&lt;/strong&gt; - The easiest option to get from airport to the campus is obviously and Uber or a Lyft. Naturally, this is a pricier ofoption, regular ones start at around $200 and an XL during peak hours can almost reach $450. It will take around 2 hours to reach San Diego&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Uber&lt;/strong&gt; - The easiest option to get from airport to the campus is obviously and Uber or a Lyft (Feel free to use the following referral codes: &lt;a href=&quot;https://www.lyft.com/i/AKSHAY37803?utm_medium=p2pi_iacc&quot;&gt;click here for Lyft&lt;/a&gt; or enter AKSHAY37803 for a discount on your rides. Uber doesn&#39;t have such a bonus currently). Naturally, this is a pricier option, regular ones start at around $200 and an XL during peak hours can almost reach $450. It will take around 2 hours to reach San Diego&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Flixbus&lt;/strong&gt; - US public transportion is not the most reliable, and expect delays. Flixbus is availabe from Cesar E Chavez Ave and you can take an Uber from the airport to the stop. The cost to San Diego is around $20 if you book early. This includes one luggage bag and one carry on. You can purchase more bags for $20 each.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Car Rental&lt;/strong&gt; - Strongly recommended that you take this option at your own risk as for most international students you will be jet lagged, tired and possibly not used to driving in the US and lastly the legality of driving in the US with an international driver&#39;s license is not entirely clear. Strictly for informational purposes, you can rent a car from the airport, there will be rental car companies such as Hertz, Enterprise, etc who will issue you a car for about $49-60 a day, fuel not included. At the time of writing this aritcle, fuel is around $5.5 a US gallon. This is roughly a 3 hr hour journey (112.2 mi/180 km) via I-405 S and I-5 S.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;banking-in-the-us&quot; tabindex=&quot;-1&quot;&gt;Banking in the US&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/faq/#banking-in-the-us&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;banking-in-the-us&quot; tabindex=&quot;-1&quot;&gt;Banking in the US&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/incoming/#banking-in-the-us&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: Not meant to be financial advice, do your own research, banking policies often change, confirming this with the bank staff and their ToS is strongly recommended&lt;/em&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -115,18 +115,18 @@ of writing this article, fuel is around $5.5 a US gallon.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;transportation-within-san-diego&quot; tabindex=&quot;-1&quot;&gt;Transportation within San Diego&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/faq/#transportation-within-san-diego&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;transportation-within-san-diego&quot; tabindex=&quot;-1&quot;&gt;Transportation within San Diego&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/incoming/#transportation-within-san-diego&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;How do I travel within San Diego?&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;How do I get to Nobel Drive?&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;groceries&quot; tabindex=&quot;-1&quot;&gt;Groceries&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/faq/#groceries&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;groceries&quot; tabindex=&quot;-1&quot;&gt;Groceries&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/incoming/#groceries&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Where do most people get their groceries?&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Target&lt;/strong&gt; - Target is available on campus, is around a 25 minute walk from grad housing. Alternatively, you can take the Mesa South Shuttle, which takes 15 minutes and you can get down at Mandeville. &lt;em&gt;Best for: Milk, Eggs&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ralphs&lt;/strong&gt; - Nearest one is in Nobel Drive. You can walk to Nobel Drive, takes around 25 minutes. You can also take the Blue Line (towards San Ysidro). You can also take buses including 101, 30, etc. &lt;em&gt;Best for: Chicken, Veggies, Fruits&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ralphs&lt;/strong&gt; - Nearest one is in Nobel Drive. You can walk to Nobel Drive, takes around 25 minutes. You can also take the Blue Line (towards San Ysidro). You can also take buses including 101, 30, etc. &lt;em&gt;Best for: Chicken, Veggies, Fruits, Alcohol&lt;/em&gt;. Make sure to install the app for the the discounts &lt;em&gt;else you will pay MSRP for most items!&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Trader Joe&#39;s&lt;/strong&gt; - Nearest one is in Nobel Drive. You can walk to Nobel Drive, takes around 25 minutes. You can also take the Blue Line (towards San Ysidro). You can also take buses including 101, 30, etc. &lt;em&gt;Best for: Frozen Food, exotic items&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -167,8 +167,108 @@ of writing this article, fuel is around $5.5 a US gallon.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;product-recommendations&quot; tabindex=&quot;-1&quot;&gt;Product Recommendations&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/faq/#product-recommendations&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: These are mostly products that either I or friends have used, buy at your own judgement&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;state-id-and-driving-license&quot; tabindex=&quot;-1&quot;&gt;State ID and Driving License&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/incoming/#state-id-and-driving-license&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;What is a State ID and do I need one?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A state ID is simply a document that acts as a proof of your identity. It can used to enter bars, take flights, prove you are a San Diego resident for discounted entry to the Zoo, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;What is a REAL ID and how does it differ from the State ID/DL&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;REAL ID is like a chip based version of the state ID or DL. You can have ONE so you can either get a REAL ID DL or State ID. I would recommend getting the State ID version as it takes time to get a DL&lt;/li&gt;
+&lt;li&gt;You would need to use a REAL ID take domestic flights in the US (otherwise you need to carry your passport).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;What is the process to get a state ID and DL&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Same common form for both, you can apply for both at the same time. Go to &lt;a href=&quot;https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/&quot;&gt;DMV website&lt;/a&gt; and fill out the form&lt;/li&gt;
+&lt;li&gt;You may need to upload some documents such as two forms of address proof (rental agreement, bank account statement print out and utility bills for OMS/Mesa Housing/off campus residents works) along site immigration documents such as passport, visa, etc.&lt;/li&gt;
+&lt;li&gt;You can book an appointment or you can walk in, however the line for walking in will be longer. The nearest DMV is in Clairemont.&lt;/li&gt;
+&lt;li&gt;Carry all documents, wait in line for a token. Provide documents to the staff. If you have signed up for a DL, you will need to clear the MCQ test too, which required 32/40 correct.&lt;/li&gt;
+&lt;li&gt;If you clear the MCQ, you get a learners license and then you can book a behind the wheel test within a year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Do I need an SSN?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You do not need an SSN to get a state ID or a drivers license.&lt;/li&gt;
+&lt;li&gt;However, in some cases the DMV may request you provide an SSN rejection letter which is a document from the SSA office that states that you are not eligible for an SSN.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;How much are the costs?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At the time of writing this article - 35$ for the State ID and 41$ for a class C DL&lt;/li&gt;
+&lt;li&gt;Do note there are extra charges if you pay by card.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;How to prepare for the test?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Please &lt;a href=&quot;https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/&quot;&gt;read the entire handbook a couple of times&lt;/a&gt; for the first part of the test.&lt;/li&gt;
+&lt;li&gt;Practice the DMV route (availabe on youtube) by renting a car.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;How to get a car for the behind the wheel test?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You will need to rent a car from a rental car company such as Hertz, Enterprise, etc which needs to insured in your name.&lt;/li&gt;
+&lt;li&gt;Depending on your circumstances you might need someone with a valid California DL with you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;How many attempts do I get?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Three for the MCQ based test and three for the behind the wheel test.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;social-security-number&quot; tabindex=&quot;-1&quot;&gt;Social Security Number&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/incoming/#social-security-number&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Can international students get a social security number?&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;International students are eligible for a social security number if they have get some form of employment in the US. This can be an on campus job, a TA or GSR position, an internship, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What is the process to get a social security number as TA/GSR?&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Download and print your appointment letter from the Academic Affairs portal&lt;/li&gt;
+&lt;li&gt;Contact your hiring department&#39;s HR and request for an &amp;quot;offer letter&amp;quot;. &lt;em&gt;This needs to be a WET INK&lt;/em&gt; letter, which means there&#39;s a physical sign on it using a pen.&lt;/li&gt;
+&lt;li&gt;Apply for a support letter from ISPO, this process takes a few business days.&lt;/li&gt;
+&lt;li&gt;Visit an SSA office with the above three letters along with your usual immigration documents. Nearest one to grad housing is in Little Italy (Note: Google Maps recommends Kearny Mesa but this requires two bus changes and is annoying to get to.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;first-week-checklist&quot; tabindex=&quot;-1&quot;&gt;First Week Checklist&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/incoming/#first-week-checklist&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Phone, if needed&lt;/li&gt;
+&lt;li&gt;New sim, have a senior collect a mint sim from ispo&lt;/li&gt;
+&lt;li&gt;Get I-94 checked in&lt;/li&gt;
+&lt;li&gt;New laptop if needed&lt;/li&gt;
+&lt;li&gt;Apply for Real ID and/or learner permit ASAP&lt;/li&gt;
+&lt;li&gt;If unfurnished, furnish&lt;/li&gt;
+&lt;li&gt;Groceries! Check out how the trolley works, busses work, etc&lt;/li&gt;
+&lt;li&gt;Open a bank account, some banks even gives you a CC at times if you ask&lt;/li&gt;
+&lt;li&gt;Go to campus figure out where your department is and where you classrooms are&lt;/li&gt;
+&lt;li&gt;Customary Indian store trip to shore up on a 20Lb bag of rice and chappatis&lt;/li&gt;
+&lt;li&gt;Explore SD as well, you will not have the time for a while&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;concluding-thoughts&quot; tabindex=&quot;-1&quot;&gt;Concluding Thoughts&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/incoming/#concluding-thoughts&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This is a work in progress document that would need constant updates, please reach out to me if you feel there are any errors or any changes can be made.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Products and Services recommendations</title>
+		<link href="http://localhost:8080/purchases/"/>
+		<updated>2023-08-05T22:07:18Z</updated>
+		<id>http://localhost:8080/purchases/</id>
+		<content type="html">&lt;h2 id=&quot;product-recommendations&quot; tabindex=&quot;-1&quot;&gt;Product Recommendations&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/purchases/#product-recommendations&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;*Disclaimer&lt;/strong&gt;: These are mostly products that either I or friends have used, buy at your own judgement*&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;I am not used to using toilet paper, is there a way to use a jet spray/bidet?&lt;/strong&gt;&lt;/p&gt;
@@ -223,22 +323,45 @@ of writing this article, fuel is around $5.5 a US gallon.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;first-week-checklist&quot; tabindex=&quot;-1&quot;&gt;First Week Checklist&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/faq/#first-week-checklist&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Phone, if needed&lt;/li&gt;
-&lt;li&gt;New sim, have a senior collect a mint sim from ispo&lt;/li&gt;
-&lt;li&gt;Get I-94 checked in&lt;/li&gt;
-&lt;li&gt;New laptop if needed&lt;/li&gt;
-&lt;li&gt;Apply for Real ID and/or learner permit ASAP&lt;/li&gt;
-&lt;li&gt;If unfurnished, furnish&lt;/li&gt;
-&lt;li&gt;Groceries! Check out how the trolley works, busses work, etc&lt;/li&gt;
-&lt;li&gt;Open a bank account, some banks even gives you a CC at times if you ask&lt;/li&gt;
-&lt;li&gt;Go to campus figure out where your department is and where you classrooms are&lt;/li&gt;
-&lt;li&gt;Customary Indian store trip to shore up on a 20Lb bag of rice and chappatis&lt;/li&gt;
-&lt;li&gt;Explore SD as well, you will not have the time for a while&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;concluding-thoughts&quot; tabindex=&quot;-1&quot;&gt;Concluding Thoughts&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/faq/#concluding-thoughts&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;This is a work in progress document that would need constant updates, please reach out to me if you feel there are any errors or any changes can be made.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>List of Apps Needed</title>
+		<link href="http://localhost:8080/apps/"/>
+		<updated>2023-08-06T00:37:49Z</updated>
+		<id>http://localhost:8080/apps/</id>
+		<content type="html">&lt;h2 id=&quot;must-install&quot; tabindex=&quot;-1&quot;&gt;Must Install&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/apps/#must-install&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Speed Queen - The app you will need to use to use laundry machines in graduate housing. Washes are $1.25 and dryers are $1.&lt;/li&gt;
+&lt;li&gt;Pronto - MTS buses and trolley passes are accessible through this. Make sure to install this before travelling.&lt;/li&gt;
+&lt;li&gt;Piazza - Most class discussions will be held on Piazza&lt;/li&gt;
+&lt;li&gt;MyChart - MyStudentChart is the way to access all your medical records, vaccinations and book appointments.&lt;/li&gt;
+&lt;li&gt;UC San Diego - Your ID card will be available here even before you come to the US .&lt;/li&gt;
+&lt;li&gt;Transloc - UCSD Shuttle tracker, the app can be fairly buggy from time to time but works pretty well.&lt;/li&gt;
+&lt;li&gt;Canvas Student - UCSD&#39;s LMS, use this to access your scores, assignments and other details regarding your course.&lt;/li&gt;
+&lt;li&gt;Sydney Health - Insurance card will be available here and you will have access to your claim history and how the claim was processed by Blue Cross Anthem/UCShip&lt;/li&gt;
+&lt;li&gt;Delta Dental - Dental Insurance card&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;highly-recommended&quot; tabindex=&quot;-1&quot;&gt;Highly Recommended&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/apps/#highly-recommended&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;groceries&quot; tabindex=&quot;-1&quot;&gt;Groceries&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/apps/#groceries&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Make sure to install the app for the respective chain as most stores will not have staff to tell you where things are. In cases like Ralphs/Krogers, without the app you will often pay full price!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ralphs&lt;/li&gt;
+&lt;li&gt;Target&lt;/li&gt;
+&lt;li&gt;Walmart&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;transportation&quot; tabindex=&quot;-1&quot;&gt;Transportation&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/apps/#transportation&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Uber&lt;/li&gt;
+&lt;li&gt;Lyft (Feel free to use the following referral codes: &lt;a href=&quot;https://www.lyft.com/i/AKSHAY37803?utm_medium=p2pi_iacc&quot;&gt;click here for Lyft&lt;/a&gt; or enter AKSHAY37803&lt;/li&gt;
+&lt;li&gt;ZipCar - Sign up early as they take a few days to approve your application&lt;/li&gt;
+&lt;li&gt;Kayak/Priceline - Use this to figure out the cheapest flight tickets. &lt;em&gt;Southwest flights are NOT present on these so check those out separately&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;misc&quot; tabindex=&quot;-1&quot;&gt;Misc&lt;a class=&quot;tdbc-anchor&quot; href=&quot;http://localhost:8080/apps/#misc&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;EventBrite - Most GPSA events will use this app to give out tickets&lt;/li&gt;
+&lt;/ol&gt;
 </content>
 	</entry>
 </feed>

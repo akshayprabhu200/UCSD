@@ -16,6 +16,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/fonts");
   eleventyConfig.addPassthroughCopy("./src/img");
   eleventyConfig.addPassthroughCopy("./src/favicon.png");
+  eleventyConfig.addPassthroughCopy({ "src/robots.txt": "/robots.txt" });
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
@@ -45,6 +46,3 @@ module.exports = function (eleventyConfig) {
     },
   };
 };
-
-// Robots.txt
-eleventyConfig.addPassthroughCopy({ "src/robots.txt": "/robots.txt" });
