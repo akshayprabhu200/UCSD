@@ -45,3 +45,6 @@ module.exports = function (eleventyConfig) {
     },
   };
 };
+
+// Robots.txt
+eleventyConfig.addPassthroughCopy({ "src/robots.txt": "/robots.txt" });

@@ -11,8 +11,8 @@ _**Disclaimer**: The information is the best of my knowledge, please confirm eve
 
    - [More on banking in the banking section](#banking-in-the-us)
    - Banks in the US will NOT entertain you without an appointment. Book an appointment for this while you are in India. This time is peak season to the point the Nobel Drive branch calls in twelve banks from other branches to handle the demand.
-   - [The link to book an appointment for chase](https://www.chase.com/meeting-scheduler/getstarted)
-   - [The link to book an appointment for chase](https://secure.bankofamerica.com/secure-mycommunications/public/appointments/)
+   - [The link to book an appointment for Chase](https://www.chase.com/meeting-scheduler/getstarted)
+   - [The link to book an appointment for Bank of America](https://secure.bankofamerica.com/secure-mycommunications/public/appointments/)
 
 2. **Prepare for the learners license test**
    - A DL in the US is a very useful document to have, you will need to clear a DL learners license test.
@@ -22,13 +22,13 @@ _**Disclaimer**: The information is the best of my knowledge, please confirm eve
 
 1. **How do I get from the San Diego Airport to the UCSD Campus?**
 
-   - **Uber** - The easiest option to get from airport to the campus is obviously and Uber or a Lyft. Naturally, this is a pricier ofoption, regular ones start at around $20 and an XL during peak hours can almost reach $50.
+   - **Uber** - The easiest option to get from airport to the campus is obviously and Uber or a Lyft (Feel free to use the following referral codes: [click here for Lyft](https://www.lyft.com/i/AKSHAY37803?utm_medium=p2pi_iacc) or enter AKSHAY37803 for a discount on your rides. Uber doesn't have such a bonus currently). Naturally, this is a pricier option, regular ones start at around $20 and an XL during peak hours can almost reach $50.
    - **Airport Shuttle** - This is available during the daylight hours and will take you to the Old Town Transit Centre. From there you can take the UCSD Blue Line Trolley to UTC to get to Grad Housing. For Nuevo East, South Mesa and Mesa Nueva residents please get down at Executive Drive and for all other housing please get down at VA Medical Center
    - **Car Rental** - Strongly recommended that you take this option at your own risk as for most international students you will be jet lagged, tired and possibly not used to driving in the US and lastly the legality of driving in the US with an international driver's license is not entirely clear. Strictly for informational purposes, you can rent a car from the airport, there will be rental car companies such as Hertz, Enterprise, etc who will issue you a car for about $49-60 a day, fuel not included.
      of writing this article, fuel is around $5.5 a US gallon.
 
 2. **How do I get from the Los Angeles Airport to the UCSD Campus?**
-   - **Uber** - The easiest option to get from airport to the campus is obviously and Uber or a Lyft. Naturally, this is a pricier ofoption, regular ones start at around $200 and an XL during peak hours can almost reach $450. It will take around 2 hours to reach San Diego
+   - **Uber** - The easiest option to get from airport to the campus is obviously and Uber or a Lyft (Feel free to use the following referral codes: [click here for Lyft](https://www.lyft.com/i/AKSHAY37803?utm_medium=p2pi_iacc) or enter AKSHAY37803 for a discount on your rides. Uber doesn't have such a bonus currently). Naturally, this is a pricier option, regular ones start at around $200 and an XL during peak hours can almost reach $450. It will take around 2 hours to reach San Diego
    - **Flixbus** - US public transportion is not the most reliable, and expect delays. Flixbus is availabe from Cesar E Chavez Ave and you can take an Uber from the airport to the stop. The cost to San Diego is around $20 if you book early. This includes one luggage bag and one carry on. You can purchase more bags for $20 each.
    - **Car Rental** - Strongly recommended that you take this option at your own risk as for most international students you will be jet lagged, tired and possibly not used to driving in the US and lastly the legality of driving in the US with an international driver's license is not entirely clear. Strictly for informational purposes, you can rent a car from the airport, there will be rental car companies such as Hertz, Enterprise, etc who will issue you a car for about $49-60 a day, fuel not included. At the time of writing this aritcle, fuel is around $5.5 a US gallon. This is roughly a 3 hr hour journey (112.2 mi/180 km) via I-405 S and I-5 S.
 
@@ -84,7 +84,7 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 1. **Where do most people get their groceries?**
 
    - **Target** - Target is available on campus, is around a 25 minute walk from grad housing. Alternatively, you can take the Mesa South Shuttle, which takes 15 minutes and you can get down at Mandeville. _Best for: Milk, Eggs_
-   - **Ralphs** - Nearest one is in Nobel Drive. You can walk to Nobel Drive, takes around 25 minutes. You can also take the Blue Line (towards San Ysidro). You can also take buses including 101, 30, etc. _Best for: Chicken, Veggies, Fruits_
+   - **Ralphs** - Nearest one is in Nobel Drive. You can walk to Nobel Drive, takes around 25 minutes. You can also take the Blue Line (towards San Ysidro). You can also take buses including 101, 30, etc. _Best for: Chicken, Veggies, Fruits, Alcohol_. Make sure to install the app for the the discounts _else you will pay MSRP for most items!_
    - **Trader Joe's** - Nearest one is in Nobel Drive. You can walk to Nobel Drive, takes around 25 minutes. You can also take the Blue Line (towards San Ysidro). You can also take buses including 101, 30, etc. _Best for: Frozen Food, exotic items_
 
 2. **Where do I shop for Indian Groceries?**
