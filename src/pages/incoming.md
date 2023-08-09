@@ -89,7 +89,13 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 ## Transportation within San Diego
 
 1. **How do I travel within San Diego?**
+
+   - Main route of transport is MTS buses and Trollies which would require the use of your "Pronto Pass". This will be activated at the start of the quarter, until then you will need to load money into the pass.
+
 2. **How do I get to Nobel Drive?**
+   - **Trolley**: For Nuevo East, South Mesa and Mesa Nueva residents please get down at Executive Drive and for all other housing please get down at VA Medical Center. From there you can take the UCSD Blue Line Trolley to San Ysidro to get to Nobel Drive Station.
+   - **Buses**: You can also take buses including 101, 202, 41, etc from various stops in and around Grad Housing
+   - **Walking**: It's a short 20-25 minute walk to Nobel Drive and usually fairly safe atleast during day light hours. The Nobel drive area itself is fairly well lit up as shops are open till 1 am or so.
 
 ## Groceries
 
