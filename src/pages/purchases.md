@@ -40,6 +40,12 @@ description: "A list of products you might wish to purchase after landing here"
    - [Amazon Basics](https://amzn.to/458NKCw) makes some decent ones
 
 7. **What about a desk and chair?**
+
    - Walmart in particular has a couple of cheap offerings as long as you're fine with a smaller one.
    - If you just want to chill with a straight forward offering from Amazon that you can just get at home then I would say go for [something like this](https://amzn.to/3rSvM8G) and [this](https://amzn.to/45eU1fU)
    - However, this is a very personal preference so get what you like the best IMO.
+
+8. **Any day to day purchases to think about?**
+
+   - You can consider things like [toilet paper](https://amzn.to/3qqgqYO), [sunscreen](https://amzn.to/47mgzNr) (yes, it's sunny here, even during the winter), [kitchen rolls](https://amzn.to/3OMbYge), [body wash](https://amzn.to/3Qw2y9W), [dish soap](https://amzn.to/3KA9rU5), etc.
+   - Store brand versions of the above are usually cheaper, usually each store has their own in house brands like Target's Room Essentials or Ralph's Private selection which will have cheaper but similar quality versions of all of the above brands.
