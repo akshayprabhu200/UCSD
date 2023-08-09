@@ -93,7 +93,7 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
    - Main route of transport is MTS buses and Trollies which would require the use of your "Pronto Pass". This will be activated at the start of the quarter, until then you will need to load money into the pass.
 
 2. **How do I get to Nobel Drive?**
-   - **Trolley**: For Nuevo East, South Mesa and Mesa Nueva residents please get down at Executive Drive and for all other housing please get down at VA Medical Center. From there you can take the UCSD Blue Line Trolley to San Ysidro to get to Nobel Drive Station.
+   - **Trolley**: : For Nuevo East, South Mesa, Central Mesa and Mesa Nueva residents please take the trolley at Executive Drive and for all other housing please take the trolley at VA Medical Center. From there you can take the UCSD Blue Line Trolley to San Ysidro to get to Nobel Drive Station.
    - **Buses**: You can also take buses including 101, 202, 41, etc from various stops in and around Grad Housing
    - **Walking**: It's a short 20-25 minute walk to Nobel Drive and usually fairly safe atleast during day light hours. The Nobel drive area itself is fairly well lit up as shops are open till 1 am or so.
 
@@ -173,6 +173,27 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
    - Contact your hiring department's HR and request for an "offer letter". _This needs to be a WET INK_ letter, which means there's a physical sign on it using a pen.
    - Apply for a support letter from ISPO, this process takes a few business days.
    - Visit an SSA office with the above three letters along with your usual immigration documents. Nearest one to grad housing is in Little Italy (Note: Google Maps recommends Kearny Mesa but this requires two bus changes and is annoying to get to.)
+
+## HDH and Housing Questions
+
+1. **What is the difference between the mailing address and actual address?**
+
+   - This question is mainly pertinent for buildings with a separate mailroom such as the Nuevas.
+   - Mailing address is where most if not all mail and parcels should be addressed to. This is the mailing room address where parcels will be collected. USPS delivered letters will put in your house's mailbox.
+   - The actual house's address is different and is where you physically live. Doordash, Uber East, Instacart, etc can be addressed to this addressed. _However, this is less reliable for certain buildings which require keycards to enter_
+
+2. **What is the format of the housing address?**
+
+   - For the Nuevas, the address is usually in the format: mailbox number, mailbox building number, Miramar Street, La Jolla, CA 92092
+   - For the older Mesas, the address is usually in the format: house number Regents Road, Apt apartment name
+
+3. **Can we switch houses later on?**
+
+   - Yes, fill out the housing application again.
+
+4. **Can we quit before the two year lease period notice is up?**
+
+   - Yes, with one month's notice you can leave
 
 ## First Week Checklist
 
