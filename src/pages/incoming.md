@@ -15,8 +15,20 @@ _**Disclaimer**: The information is the best of my knowledge, please confirm eve
    - [The link to book an appointment for Bank of America](https://secure.bankofamerica.com/secure-mycommunications/public/appointments/)
 
 2. **Prepare for the learners license test**
+
    - A DL in the US is a very useful document to have, you will need to clear a DL learners license test.
    - Please [read the entire handbook a couple of times](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/)
+
+3. **Travel Insurance**
+
+   - Strictly speaking this is optional, however, Fall Quarter coverage for UCShip doesnt start till the start of the quarter so it is highly recommended to have some cover for your health.
+   - Make sure to read about the coverage, some plans have incredibly poor travel coverage
+
+4. **Prearrival Purchases**
+
+   - For people landing early, or at odd times if you need certain "small" items as soon as you land, there's things called Amazon Lockers. These are open 24/7 and if you order to them, Amazon sends you a code, you enter the code on the Kiosk and it automatically opens the locker with your item which you can grab. Nearest ones: Nuevo East - Furniture, in the Exchange building; NW - Ruckus, under Viento; MN - Convex, no clue, forgot where this is lol; It will be available on the checkout page.
+   - You may want to order certain things for day one itself, as shipping in the US take a lot more time than India so make sure to order some of this stuff in advance. You can sign up for [Amazon Prime as a student for free for six months](https://amzn.to/3QtUOVV). Make sure to take advantage of that
+   - Some stuff you may want to order in advance before arriving here depending on your situation are: [bidet/jet spray](https://amzn.to/3YmXCWQ), [toilet paper](https://amzn.to/3qqgqYO), [sunscreen](https://amzn.to/47mgzNr) (yes, it's sunny here, even during the winter), [kitchen rolls](https://amzn.to/3OMbYge), [body wash](https://amzn.to/3Qw2y9W), [dish soap](https://amzn.to/3KA9rU5), etc. Other potential purhcases there on the [purchases page](https://ucsd.akshayprabhu.dev/purchases/)
 
 ## Arrival in the US
 
