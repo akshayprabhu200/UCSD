@@ -84,7 +84,23 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
    - Most banks will charge $15/16 for incoming wire transfers. _UCU being the acception providing free incoming wires_
 
 8. **How to send money to others in the US?**
+
    - Zelle and Venmo are the defacto equivalents to India's UPI but have limits based on your banks
+
+9. **How do I send money to the US?**
+
+   - The most stable option to the remit money to the US remits using wire transfers.
+   - Wire transfers have fees in four possible ways:
+     - Conversion fees: These are straight forward, a charge to convert the INR to USD
+     - Wire Fees from the Indian Bank
+     - Forex Markup ie the rate at which INR is converted to USD, may services will use incredibly poor rates
+     - Incoming wire transfer fees from your bank in the US
+   - You can minimize the first three by using some newer age bank with free international wires and forex such as DBS, DCB, etc (atleast at the time of writing).
+
+10. **How do I pay my tuition and rent?**
+
+- If your fees is being sent by your loan provider and they insist on paying the university directly then Flywire and other offers tied with UCSD are your only possible options.
+- If your bank disburses the account to your account OR you are paying the fees yourself then remit the money to your bank account in the US and then use the "E-Check" option to pay your fees. This costs merely 50 cents per transaction and is one of the easiest ways to pay UCSD.
 
 ## Transportation within San Diego
 

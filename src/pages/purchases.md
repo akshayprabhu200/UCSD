@@ -7,13 +7,15 @@ description: "A list of products you might wish to purchase after landing here"
 
 **\*Disclaimer**: These are mostly products that either I or friends have used, buy at your own judgement\*
 
+### [Make to sign up for Amazon Prime Student (Free for Six Months)](https://amzn.to/3QtUOVV)
+
 1. **I am not used to using toilet paper, is there a way to use a jet spray/bidet?**
 
    - You can install a bidet in Grad Housing and usually does not require any sort of special tooling to install
    - [This is the one I personally use](https://amzn.to/3YmXCWQ) and can say is pretty good.
    - You can also get [portable ones for travel](https://amzn.to/3YqLWmc)
 
-2. **Is the water in San Diego safe to drink? I have heard of Brisa Filters, are they any good?**
+2. **Is the water in San Diego safe to drink? I have heard of Brita Filters, are they any good?**
 
    - The water is safe to drink, however has a pretty bad taste so most people get a Brita Pitcher
    - [This is](https://amzn.to/3YlwVSw) the version most people use for personal use.
@@ -49,3 +51,10 @@ description: "A list of products you might wish to purchase after landing here"
 
    - You can consider things like [toilet paper](https://amzn.to/3qqgqYO), [sunscreen](https://amzn.to/47mgzNr) (yes, it's sunny here, even during the winter), [kitchen rolls](https://amzn.to/3OMbYge), [body wash](https://amzn.to/3Qw2y9W), [dish soap](https://amzn.to/3KA9rU5), etc.
    - Store brand versions of the above are usually cheaper, usually each store has their own in house brands like Target's Room Essentials or Ralph's Private selection which will have cheaper but similar quality versions of all of the above brands.
+
+9. **Is there any cough syrup/other OTC medication that people tend to get?**
+
+   - _Disclaimer: Not medical advice, these are over the counter medications and could possibly interact with your other medication. Check with your doctor/healthcare provider and read any relevant disclosures they have._
+   - A popular choice for cough syrup is the [DayQuil and Nyquil combination](https://amzn.to/453jvwP).
+   - Paracetamol in the the US is sold under the generic name acetaminophen or more commonly as [Tylenol](https://amzn.to/3DSS39j)
+   - Ibuprofen is also available under either brand name [Advil](https://amzn.to/3KxVC8B) or as [generic store brand tablets as Ibuprofen](https://amzn.to/3KzKd8f) from Amazon and other stores.
