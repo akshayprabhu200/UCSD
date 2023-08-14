@@ -79,13 +79,25 @@ description: "A list of products you might wish to purchase after landing here"
 
 13. Do I need to bring a comforter or blanket?
 
-- A thin blanket from India might be worth bringing but for the thicker styled comforters you can get some cheap ones here
-- Usually store brand ones like [Amazon Basic's Comforters](https://amzn.to/3YD6wj5) or the equivalents from Target or Walmart are good
+    - A thin blanket from India might be worth bringing but for the thicker styled comforters you can get some cheap ones here
+    - Usually store brand ones like [Amazon Basic's Comforters](https://amzn.to/3YD6wj5) or the equivalents from Target or Walmart are good
 
 14. How does the laundry system work in the US? What kind of detergent do we need?
 
-- Unlike India where you use something like laundry detergent powder, here it is far more common to use either pods or liquid. Throwback to the "Tide Pod Challenge" if anyone remembers that.
-- A common choice is one of the [Tide Pods series of detegents](https://amzn.to/47xrunv). It's also available with flavours such as [a collaboration with Downy](https://amzn.to/44aMttF) or [the one with Febreeze](https://amzn.to/45khBYM).
-- Bonus: You might want to use a dryer sheet such as [Downy](https://amzn.to/3s62PpT) or [Bounce](https://amzn.to/459eyCX)
+    - Unlike India where you use something like laundry detergent powder, here it is far more common to use either pods or liquid. Throwback to the "Tide Pod Challenge" if anyone remembers that.
+    - A common choice is one of the [Tide Pods series of detegents](https://amzn.to/47xrunv). It's also available with flavours such as [a collaboration with Downy](https://amzn.to/44aMttF) or [the one with Febreeze](https://amzn.to/45khBYM).
+    - Bonus: You might want to use a dryer sheet such as [Downy](https://amzn.to/3s62PpT) or [Bounce](https://amzn.to/459eyCX)
+
+15. I am planning to purchase a laptop - would I need a GPU? Should I go for Windows or Mac? What if I plan to do ML?
+
+    - The choice of Macs and Windows, heavily depends on what kind of courses you want to take. If your course requires a specific Windows or Mac only software then you have no choice but to get that unless you plan to gamble with Parallels, Wine or a Dual Boot.
+    - If you are a gamer, chances are you will be stuck with Windows due to the overall gaming experience on Mac being incredibly poor.
+    - If you are worried about training large ML models _usually_ if this is a part of a course you can request to prof to give you access to [UCSD Datahub](https://datahub.ucsd.edu/hub/login?next=%2Fhub%2F) or if you work for a lab, then usually the lab will have their own servers or access to some one else's which you will be granted access to in most cases.
+
+16. How do I buy a Macbook? Are there any Black Friday deals?
+
+    - Apple almost never does any sort of Black Friday deals for their mainline products such as Macbooks, iPhones, etc. Third party sellers such as Best Buy, Amazon, etc do. For example, at the time of writing this article t[he second generation Apple Airpod Pros are sale for $199](https://amzn.to/47unoN3) instead of the $250 MSRP.
+    - Apple, however, if purchased directly through them does education discounts year round for iPads and Macbooks (note that iPhones are NOT a part of education pricing).
+    - Right before fall, Apple also provides some sort of bonus such as giftcards, airpods, etc for devices purchased through the education store. Usually that is the best time to purchase Apple products.
 
 Last Updated: 2023-08-14T18:52:51Z
