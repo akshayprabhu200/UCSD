@@ -10,7 +10,7 @@ _**Disclaimer**: The information is the best of my knowledge, please confirm eve
 1. **Book a bank appointment!**
 
    - [More on banking in the banking section](#banking-in-the-us)
-   - Banks in the US will NOT entertain you without an appointment. Book an appointment for this while you are in India. This time is peak season to the point the Nobel Drive branch calls in twelve banks from other branches to handle the demand.
+   - Banks in the US will NOT entertain you without an appointment. Book an appointment for this while you are in India. This time is peak season to the point the Chase Nobel Drive branch calls in twelve additional bankers from other branches to handle the demand.
    - [The link to book an appointment for Chase](https://www.chase.com/meeting-scheduler/getstarted)
    - [The link to book an appointment for Bank of America](https://secure.bankofamerica.com/secure-mycommunications/public/appointments/)
 
@@ -228,3 +228,5 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 ## Concluding Thoughts
 
 This is a work in progress document that would need constant updates, please reach out to me if you feel there are any errors or any changes can be made.
+
+Last Updated: 2023-08-14T18:52:51Z

@@ -9,6 +9,8 @@ description: "A list of products you might wish to purchase after landing here"
 
 ### [Make to sign up for Amazon Prime Student (Free for Six Months)](https://amzn.to/3QtUOVV)
 
+### [Spending on Walmart and other stores? Sign up through Rakuten for cashback + $30 on your first purchase](www.rakuten.com/r/AKSHAY2473?eeid=28187)
+
 1. **I am not used to using toilet paper, is there a way to use a jet spray/bidet?**
 
    - You can install a bidet in Grad Housing and usually does not require any sort of special tooling to install
@@ -58,3 +60,32 @@ description: "A list of products you might wish to purchase after landing here"
    - A popular choice for cough syrup is the [DayQuil and Nyquil combination](https://amzn.to/453jvwP).
    - Paracetamol in the the US is sold under the generic name acetaminophen or more commonly as [Tylenol](https://amzn.to/3DSS39j)
    - Ibuprofen is also available under either brand name [Advil](https://amzn.to/3KxVC8B) or as [generic store brand tablets as Ibuprofen](https://amzn.to/3KzKd8f) from Amazon and other stores.
+
+10. **I have heard about Instant Pots, are they any good?**
+
+    - Yeah, Instant Pots are pretty useful - they have timer functions to cook your food a fixed amount of time. After cooking the thing will even keep your food warm for 10 hours.
+    - If you're forgetful like I am, then it even has burnt protections, if the item might burn it just stops and alerts you to add more water.
+    - You can buy the [3 quart version](https://amzn.to/3KAsspe) if you want to cook for yourself (and maybe one friend) and [6 quart version](https://amzn.to/44UDBcJ) if you want to cook for multiple people at once.
+
+11. **What's the easiest way to cook rice, momos, etc?**
+
+    - Get a rice cooker - [Black and Decker](https://amzn.to/3KApeSB) and [Aroma](https://amzn.to/3QAb2wS) have decent offerings
+
+12. **Any recommendations for mixers/blenders?**
+
+    - US blenders are not comparable to Indian "mixies", so if you plan to make like dosa batter from scratch or something it wil either be not possible or take a lot of time and effort.
+    - Typically people get something that looks like this: [Magic Bullet Blender](https://amzn.to/3DU4FwV)
+    - There's a [<$20 version available which I got from Walmart](https://www.walmart.com/ip/Mainstays-Single-Serve-Blender-16-oz-Black-with-one-Travel-Lid/929063007?from=%2Fsearch), that's also decent.
+
+13. Do I need to bring a comforter or blanket?
+
+- A thin blanket from India might be worth bringing but for the thicker styled comforters you can get some cheap ones here
+- Usually store brand ones like [Amazon Basic's Comforters](https://amzn.to/3YD6wj5) or the equivalents from Target or Walmart are good
+
+14. How does the laundry system work in the US? What kind of detergent do we need?
+
+- Unlike India where you use something like laundry detergent powder, here it is far more common to use either pods or liquid. Throwback to the "Tide Pod Challenge" if anyone remembers that.
+- A common choice is one of the [Tide Pods series of detegents](https://amzn.to/47xrunv). It's also available with flavours such as [a collaboration with Downy](https://amzn.to/44aMttF) or [the one with Febreeze](https://amzn.to/45khBYM).
+- Bonus: You might want to use a dryer sheet such as [Downy](https://amzn.to/3s62PpT) or [Bounce](https://amzn.to/459eyCX)
+
+Last Updated: 2023-08-14T18:52:51Z
