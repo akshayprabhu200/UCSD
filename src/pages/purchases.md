@@ -9,7 +9,7 @@ description: "A list of products you might wish to purchase after landing here"
 
 ### [Make to sign up for Amazon Prime Student (Free for Six Months)](https://amzn.to/3QtUOVV)
 
-### [Spending on Walmart and other stores? Sign up through Rakuten for cashback + $30 on your first purchase](www.rakuten.com/r/AKSHAY2473?eeid=28187)
+### [Spending on Walmart and other stores? Sign up through Rakuten for cashback + $30 on your first purchase](https://www.rakuten.com/r/AKSHAY2473?eeid=28187)
 
 1. **I am not used to using toilet paper, is there a way to use a jet spray/bidet?**
 
