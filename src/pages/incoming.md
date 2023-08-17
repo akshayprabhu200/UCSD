@@ -211,6 +211,12 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 
    - Yes, with one month's notice you can leave
 
+5. **How is garbage and waste disposal handled?**
+
+   - Buildings such as Mesa Nueva, Nuevo East and Nuevo West will have "trash chutes" where you can throw down your garbage bags
+   - The rest will have large bins in their area where garbage can be thrown. For both cases, you will have a general landfill bin and a recyclable bin.
+   - You will need to purchase a trash can and depending on the size of your can purchase a garbage bag such as this [13 gallon one](https://amzn.to/3sbfZSF) or this [30 gallon one](https://amzn.to/3qyioX1).
+
 ## First Week Checklist
 
 - Phone, if needed
@@ -229,4 +235,4 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 
 This is a work in progress document that would need constant updates, please reach out to me if you feel there are any errors or any changes can be made.
 
-Last Updated: 2023-08-14T18:52:51Z
+Last Updated: 2023-08-17T05:08:39Z

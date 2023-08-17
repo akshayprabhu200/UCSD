@@ -100,4 +100,18 @@ description: "A list of products you might wish to purchase after landing here"
     - Apple, however, if purchased directly through them does education discounts year round for iPads and Macbooks (note that iPhones are NOT a part of education pricing).
     - Right before fall, Apple also provides some sort of bonus such as giftcards, airpods, etc for devices purchased through the education store. Usually that is the best time to purchase Apple products.
 
-Last Updated: 2023-08-14T18:52:51Z
+17. I want to iron my clothes, anything you would recommend?
+
+    - For ironing clothes, [Black and Decker](https://amzn.to/44dXFpn) makes a cheap iron you could try out.
+
+18. Would I need a microwave?
+
+    - Residents of unfurnished housing such as South and Central Mesa, Nuevo East, etc would need to purchase a microwave as they only come with a convectional oven.
+    - Faberware has a few good options [including this](https://amzn.to/3qre6AZ) and [this one](https://amzn.to/44f6dfN) for under $75 at the time of writing this.
+
+19. Do houses come with a trashcan? How is garbage handled?
+
+    - Houses do not come with a trash can, I'd highly recommend checking out Target, they usually have a good deal during the back to school season on stuff like this.
+    - Depending on the size of your can purchase a garbage bag such as this [13 gallon one](https://amzn.to/3sbfZSF) or this [30 gallon one](https://amzn.to/3qyioX1).
+
+Last Updated: 2023-08-17T05:08:39Z
