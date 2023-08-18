@@ -74,9 +74,10 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
    - Yes, credit cards help you manage cashflows, especially since you might be waiting for your paycheck, perhaps a remittance, etc.
    - Building a credit score in the US is fairly critical.
 
-6. **I see Chase has a referral program, how can make use of it?**
+6. **I see Chase has a referral program for their Checking Account, how can make use of it?**
 
-   - Feel [to use mine](https://accounts.chase.com/raf/share/3141596503), if you qualify there's around a bonus of $200.
+   - Feel [to use mine](https://accounts.chase.com/raf/share/3141596503), if you qualify there's around a bonus of $100 if you open a Student Checking account and $200 if you open a Total Checking Account.
+   - The to avail
 
 7. **How to receive money in my bank account?**
 
@@ -101,6 +102,12 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 
 - If your fees is being sent by your loan provider and they insist on paying the university directly then Flywire and other offers tied with UCSD are your only possible options.
 - If your bank disburses the account to your account OR you are paying the fees yourself then remit the money to your bank account in the US and then use the "E-Check" option to pay your fees. This costs merely 50 cents per transaction and is one of the easiest ways to pay UCSD.
+
+11. **I don't have an SSN, how do I apply for a credit card in the US?**
+
+    - The easiest approaches tend to be open a credit card with the bank you opened an account with. Bank of America tends to do it immediately after opening an account, though Chase might make you wait a few months.
+    - If you had an Indian credit history, then you have two other options - firstly if you had an Amex credit card in India, then you you can apply for their Global Program which can help you transition your existing card to the US.
+    - Alternative, you can just apply for an Amex card and enter that you dont have an SSN in the application and you will be able to apply using the credit score you had from your home country.
 
 ## Transportation within San Diego
 
@@ -216,6 +223,28 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
    - Buildings such as Mesa Nueva, Nuevo East and Nuevo West will have "trash chutes" where you can throw down your garbage bags
    - The rest will have large bins in their area where garbage can be thrown. For both cases, you will have a general landfill bin and a recyclable bin.
    - You will need to purchase a trash can and depending on the size of your can purchase a garbage bag such as this [13 gallon one](https://amzn.to/3sbfZSF) or this [30 gallon one](https://amzn.to/3qyioX1).
+
+## Career Fairs
+
+1. **How do career fairs work?**
+
+   - Usually companies will come and setup a booth where you can queue up and wait for your turn and talk to the recruiter, current employees or even the hiring manager at times.
+   - Generally there isnt any specific thing you can/can't talk about. Naturally, you want to keep it professional and relevant as these are busy individuals but it's your responsibility to make a lasting impression.
+   - If you're socially gifted, do your research, etc you may be able to convert that conversation into a future meeting where you can then leverage the connection for a referral. _Do not ask for a referral on the spot, it's considered bad etiquette and advising in general hates that behaviour._
+
+2. **Are we granted a job for sure or is there still uncertainity?**
+
+   - Most companies which come to UCSD career fairs have long histories of hiring from UCSD. So while, there isn't an Indian style campus placements system in place, if a company comes to UCSD, it means they have a favourable impression of our grads, have several alumni working there and will likely favour UCSD grads.
+   - Many companies will have a dedicated University Recruiters. These individuals are a point of contact from the company for all students from the university. UCSD usually has a dedicated recruiter (sometimes shared with other UCs such as UCLA and Cal) with major firms. Keep in touch with these folks, as they will push to hire you and can provide you with resources.
+
+3. **So even for campus fairs, we still just apply online?**
+
+   - Usually, yes. However, many companies will have a _special link_ for the career fair itself. And attendees can apply through that and occassionally some companies atleast send an online assessment round to all those who applied through that.
+   - Also carry physical copies of your resume which you can drop off. Some companies will reach out to you asking about open positions if you drop a resume.
+
+4. **How do we dress?**
+
+   - I'll defer to CSE's suggestion: "US business casual. You do not need a full suit, but DO NOT show up in dirty clothes, pajamas, sleepwear, or anything too casual. You need to see yourself through the employers’s eyes, and a sloppy image can send the image that you don’t care or want employment and can also be read as arrogance"
 
 ## First Week Checklist
 
