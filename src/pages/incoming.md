@@ -74,10 +74,11 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
    - Yes, credit cards help you manage cashflows, especially since you might be waiting for your paycheck, perhaps a remittance, etc.
    - Building a credit score in the US is fairly critical.
 
-6. **I see Chase has a referral program for their Checking Account, how can make use of it?**
+6. **I see Chase has a bonus of $100/200 with a referral? How do I go around claiming the bonus?**
 
    - Feel [to use mine](https://accounts.chase.com/raf/share/3141596503), if you qualify there's around a bonus of $100 if you open a Student Checking account and $200 if you open a Total Checking Account.
-   - The to avail
+   - To steps to avail the offer are [visit the referral link](https://accounts.chase.com/raf/share/3141596503) and enter your email ID.
+   - Chase will send you coupon for the offer which you then read out to the staff member opening your account.
 
 7. **How to receive money in my bank account?**
 
