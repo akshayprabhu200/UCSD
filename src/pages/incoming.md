@@ -71,10 +71,14 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 
 5. **Do I _need_ a credit card?**
 
-   - Yes, credit cards help you manage cashflows, especially since you might be waiting for your paycheck, perhaps a remittance, etc.
-   - Building a credit score in the US is fairly critical.
+   - Yes, fundamentally, credit cards help you manage cashflows, especially since you might be waiting for your paycheck, perhaps a remittance, etc.
+   - But what is more critical is, they help you build credit in the US. A credit score in the US can often be a matter of your job prospects, your ability to live in an area, etc.
+   - [Employers can request your credit history](https://www.cnbc.com/select/can-employers-see-your-credit-score/) and so can [potential landlords if you plan on renting a house](https://www.experian.com/blogs/ask-experian/do-you-need-a-credit-score-to-rent-a-house-or-apartment/).
+   - A lot of places like gas stations, hotels and rental car places will place holds when you try to use their services. If you have a credit card, this just temporily blocks a part of your usage limit but if you use a debit card this sometimes results in money being actually deducted temporily.
+   - Credit cards often offer a large number of points. In the US, credit cards offer a large number of rewards just for shopping in their categories. For example, [Amex offers 6% back on groceries on some of their cards](https://americanexpress.com/en-us/referral/AKSHaP4z4w?XLINK=MYCP)
+   - Alternatively, many cards offer a huge range of benefits such as but not limited to - free damage waivers on your rental car, extended warranty on all card purchases, 0% APR periods, lounge access if it's a premium travel card like Chase Sapphire or Amex Platinum, etc.
 
-6. **I see Chase has a bonus of $100/200 with a referral? How do I go around claiming the bonus?**
+6. **I see Chase offers a bonus of $100/200 if you open a bank account with a referral? How do I go around claiming the bonus?**
 
    - Feel [to use mine](https://accounts.chase.com/raf/share/3141596503), if you qualify there's around a bonus of $100 if you open a Student Checking account and $200 if you open a Total Checking Account.
    - To steps to avail the offer are [visit the referral link](https://accounts.chase.com/raf/share/3141596503) and enter your email ID.
@@ -87,7 +91,9 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 
 8. **How to send money to others in the US?**
 
-   - Zelle and Venmo are the defacto equivalents to India's UPI but have limits based on your banks
+   - Zelle is run by banks and the closest the US has to something like IMPS. Works in a similar way where you enter a phone number or email ID to send money.
+   - [Venmo is another popular way to send money to people in the US amd they offer you $10 on account creation, if you spend $5 within two weeks of creating an account](https://get.venmo.com/TAS4TM6WmCb). Zelle is slightly less common outside international students, compared to Venmo which is more common with Americans.
+   - [PayPal is a popular way to send money in the US to people who you don't quite trust](https://py.pl/2HQ9AX) and in a lot of shady sites paying through PayPal prevents them from getting your card details.
 
 9. **How do I send money to the US?**
 
