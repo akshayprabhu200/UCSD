@@ -231,6 +231,12 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
    - The rest will have large bins in their area where garbage can be thrown. For both cases, you will have a general landfill bin and a recyclable bin.
    - You will need to purchase a trash can and depending on the size of your can purchase a garbage bag such as this [13 gallon one](https://amzn.to/3sbfZSF) or this [30 gallon one](https://amzn.to/3qyioX1).
 
+6. **Does HDH lend out anything any tools/services?**
+
+   - **Vaccuum Cleaner**: You can borrow a decently sized vaccuum cleaner from HDH by collecting one from the mailrooms or HDH offices. There isn't any strict timeline to return them but they will usually make you sign a document asking for your flat number and PID.
+   - **Tool Box**: You can borrow a toolkit with things like spanners from HDH by collecting one from the mailrooms or HDH offices. There isn't any strict timeline to return them but they will usually make you sign a document asking for your flat number and PID.
+   - **Carts**: If you want to carry heavy stuff around, HDH provides a large cart which makes it easy to transport beds, mattresses, and other heavy items.
+
 ## Career Fairs
 
 1. **How do career fairs work?**
