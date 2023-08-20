@@ -29,8 +29,8 @@ description: "A list of products you might wish to purchase after landing here"
 
 4. **I need a surge protector, what do you recommend?**
 
-   - [Tripp Lite](https://amzn.to/45bm4fW) is prety well reputed and I have used their products, but is slightly higher priced
-   - [Phillips](https://amzn.to/44TSBrt) if you are on a tigher budget
+   - [Tripp Lite](https://amzn.to/45bm4fW) is pretty well reputed and I have used their products, but is slightly higher priced
+   - [Phillips](https://amzn.to/44TSBrt) if you are on a tighter budget
 
 5. **I need a mattress for my house, what do you recommend?**
 
@@ -85,7 +85,7 @@ description: "A list of products you might wish to purchase after landing here"
 14. How does the laundry system work in the US? What kind of detergent do we need?
 
     - Unlike India where you use something like laundry detergent powder, here it is far more common to use either pods or liquid. Throwback to the "Tide Pod Challenge" if anyone remembers that.
-    - A common choice is one of the [Tide Pods series of detegents](https://amzn.to/47xrunv). It's also available with flavours such as [a collaboration with Downy](https://amzn.to/44aMttF) or [the one with Febreeze](https://amzn.to/45khBYM).
+    - A common choice is one of the [Tide Pods series of detergents](https://amzn.to/47xrunv). It's also available with flavours such as [a collaboration with Downy](https://amzn.to/44aMttF) or [the one with Febreeze](https://amzn.to/45khBYM).
     - Bonus: You might want to use a dryer sheet such as [Downy](https://amzn.to/3s62PpT) or [Bounce](https://amzn.to/459eyCX)
 
 15. **I am planning to purchase a laptop - would I need a GPU? Should I go for Windows or Mac? What if I plan to do ML?**

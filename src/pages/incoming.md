@@ -21,14 +21,17 @@ _**Disclaimer**: The information is the best of my knowledge, please confirm eve
 
 3. **Travel Insurance**
 
-   - Strictly speaking this is optional, however, Fall Quarter coverage for UCShip doesnt start till the start of the quarter so it is highly recommended to have some cover for your health.
+   - Strictly speaking this is optional, however, Fall Quarter coverage for UCShip doesn't start till the start of the quarter so it is highly recommended to have some cover for your health.
    - Make sure to read about the coverage, some plans have incredibly poor travel coverage
 
 4. **Prearrival Purchases**
 
+   - **[Make sure to sign up for Amazon Student Prime which is free for Six months before you make these orders, without prime orders take a long time to deliver in the US](https://amzn.to/3QtUOVV)**
+   - **[And if you're spending on Walmart, Target and other stores? Sign up through Rakuten for cashback + $30 on your first purchase](https://www.rakuten.com/r/AKSHAY2473?eeid=28187)**
    - For people landing early, or at odd times if you need certain "small" items as soon as you land, there's things called Amazon Lockers. These are open 24/7 and if you order to them, Amazon sends you a code, you enter the code on the Kiosk and it automatically opens the locker with your item which you can grab. Nearest ones: Nuevo East - Furniture, in the Exchange building; NW - Ruckus, under Viento; MN - Convex, in the parking lot near HDH's office; It will be available on the checkout page.
-   - You may want to order certain things for day one itself, as shipping in the US take a lot more time than India so make sure to order some of this stuff in advance. You can sign up for [Amazon Prime as a student for free for six months](https://amzn.to/3QtUOVV). Make sure to take advantage of that
+   - You may want to order certain things for day one itself, as shipping in the US take a lot more time than India so make sure to order some of this stuff in advance.
    - Some stuff you may want to order in advance before arriving here depending on your situation are: [bidet/jet spray](https://amzn.to/3YmXCWQ), [toilet paper](https://amzn.to/3qqgqYO), [sunscreen](https://amzn.to/47mgzNr) (yes, it's sunny here, even during the winter), [kitchen rolls](https://amzn.to/3OMbYge), [body wash](https://amzn.to/3Qw2y9W), [dish soap](https://amzn.to/3KA9rU5), etc. Other potential purhcases there on the [purchases page](https://ucsd.akshayprabhu.dev/purchases/)
+   - [Make sure to buy a Brita filter as water is NOT the best tasting in San Diego](https://amzn.to/3YlwVSw).
 
 ## Arrival in the US
 
@@ -41,8 +44,8 @@ _**Disclaimer**: The information is the best of my knowledge, please confirm eve
 
 2. **How do I get from the Los Angeles Airport to the UCSD Campus?**
    - **Uber** - The easiest option to get from airport to the campus is obviously and Uber or a Lyft (Feel free to use the following referral codes: [click here for Lyft](https://www.lyft.com/i/AKSHAY37803?utm_medium=p2pi_iacc) or enter AKSHAY37803 for a discount on your rides. Uber doesn't have such a bonus currently). Naturally, this is a pricier option, regular ones start at around $200 and an XL during peak hours can almost reach $450. It will take around 2 hours to reach San Diego
-   - **Flixbus** - US public transportion is not the most reliable, and expect delays. Flixbus is availabe from Cesar E Chavez Ave and you can take an Uber from the airport to the stop. The cost to San Diego is around $20 if you book early. This includes one luggage bag and one carry on. You can purchase more bags for $20 each.
-   - **Car Rental** - Strongly recommended that you take this option at your own risk as for most international students you will be jet lagged, tired and possibly not used to driving in the US and lastly the legality of driving in the US with an international driver's license is not entirely clear. Strictly for informational purposes, you can rent a car from the airport, there will be rental car companies such as Hertz, Enterprise, etc who will issue you a car for about $49-60 a day, fuel not included. At the time of writing this aritcle, fuel is around $5.5 a US gallon. This is roughly a 3 hr hour journey (112.2 mi/180 km) via I-405 S and I-5 S.
+   - **Flixbus** - US public transportation is not the most reliable, and expect delays. Flixbus is available from Cesar E Chavez Ave and you can take an Uber from the airport to the stop. The cost to San Diego is around $20 if you book early. This includes one luggage bag and one carry on. You can purchase more bags for $20 each.
+   - **Car Rental** - Strongly recommended that you take this option at your own risk as for most international students you will be jet lagged, tired and possibly not used to driving in the US and lastly the legality of driving in the US with an international driver's license is not entirely clear. Strictly for informational purposes, you can rent a car from the airport, there will be rental car companies such as Hertz, Enterprise, etc who will issue you a car for about $49-60 a day, fuel not included. At the time of writing this article, fuel is around $5.5 a US gallon. This is roughly a 3 hr hour journey (112.2 mi/180 km) via I-405 S and I-5 S.
 
 ## Banking in the US
 
@@ -86,8 +89,8 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 
 7. **How to receive money in my bank account?**
 
-   - Most banks will provide you with a SWIFT code, this combined with your name, branch address, etc will be how you can recieve money.
-   - Most banks will charge $15/16 for incoming wire transfers. _UCU being the acception providing free incoming wires_
+   - Most banks will provide you with a SWIFT code, this combined with your name, branch address, etc will be how you can receive money.
+   - Most banks will charge $15/16 for incoming wire transfers. _UCU being the exception providing free incoming wires_
 
 8. **How to send money to others in the US?**
 
@@ -231,11 +234,16 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
    - The rest will have large bins in their area where garbage can be thrown. For both cases, you will have a general landfill bin and a recyclable bin.
    - You will need to purchase a trash can and depending on the size of your can purchase a garbage bag such as this [13 gallon one](https://amzn.to/3sbfZSF) or this [30 gallon one](https://amzn.to/3qyioX1).
 
-6. **Does HDH lend out anything any tools/services?**
+6. **Does HDH lend out any tools/services for free?**
 
    - **Vaccuum Cleaner**: You can borrow a decently sized vaccuum cleaner from HDH by collecting one from the mailrooms or HDH offices. There isn't any strict timeline to return them but they will usually make you sign a document asking for your flat number and PID.
    - **Tool Box**: You can borrow a toolkit with things like spanners from HDH by collecting one from the mailrooms or HDH offices. There isn't any strict timeline to return them but they will usually make you sign a document asking for your flat number and PID.
    - **Carts**: If you want to carry heavy stuff around, HDH provides a large cart which makes it easy to transport beds, mattresses, and other heavy items.
+
+7. **Can we have friends/family over to stay for a few days?**
+
+   - As long as your flatmates and/or roomates are cool with it, it should be fine.
+   - Just grab a [sleeping bag](https://amzn.to/3OJdsGL) or a [cheap air mattress](https://amzn.to/3P39sm5) for them to sleep if you dont have a couch for them to crash on.
 
 ## Career Fairs
 
@@ -245,14 +253,14 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
    - Generally there isnt any specific thing you can/can't talk about. Naturally, you want to keep it professional and relevant as these are busy individuals but it's your responsibility to make a lasting impression.
    - If you're socially gifted, do your research, etc you may be able to convert that conversation into a future meeting where you can then leverage the connection for a referral. _Do not ask for a referral on the spot, it's considered bad etiquette and advising in general hates that behaviour._
 
-2. **Are we granted a job for sure or is there still uncertainity?**
+2. **Are we granted a job for sure or is there still uncertainty?**
 
    - Most companies which come to UCSD career fairs have long histories of hiring from UCSD. So while, there isn't an Indian style campus placements system in place, if a company comes to UCSD, it means they have a favourable impression of our grads, have several alumni working there and will likely favour UCSD grads.
    - Many companies will have a dedicated University Recruiters. These individuals are a point of contact from the company for all students from the university. UCSD usually has a dedicated recruiter (sometimes shared with other UCs such as UCLA and Cal) with major firms. Keep in touch with these folks, as they will push to hire you and can provide you with resources.
 
 3. **So even for campus fairs, we still just apply online?**
 
-   - Usually, yes. However, many companies will have a _special link_ for the career fair itself. And attendees can apply through that and occassionally some companies atleast send an online assessment round to all those who applied through that.
+   - Usually, yes. However, many companies will have a _special link_ for the career fair itself. And attendees can apply through that and occasionally some companies atleast send an online assessment round to all those who applied through that.
    - Also carry physical copies of your resume which you can drop off. Some companies will reach out to you asking about open positions if you drop a resume.
 
 4. **How do we dress?**
@@ -277,4 +285,4 @@ _**Disclaimer**: Not meant to be financial advice, do your own research, banking
 
 This is a work in progress document that would need constant updates, please reach out to me if you feel there are any errors or any changes can be made.
 
-Last Updated: 2023-08-17T05:08:39Z
+Last Updated: 2023-08-19T17:29:22Z
