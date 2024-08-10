@@ -16,7 +16,7 @@ description: "A list of products you might wish to purchase after landing here"
 These are some recommendations of things you want to order _before_ you land. **The mailroom will hold these and have a large cart to transport all of these and there is a lift so you dont need to worry about weight** I have provided more detailed explanations below but the short version:
 
 1. [Get prime! Make sure to sign up for Student Prime before you order](https://amzn.to/3SKpjHs)
-2. You need to sleep on the night you arrive - [Grab a mattress](https://amzn.to/3AjHsFU), [a mattress protector] (to prevent damage), [some fitted sheets] and a [pillow or two]
+2. You need to sleep on the night you arrive - [Grab a mattress](https://amzn.to/3AjHsFU), [a mattress protector](https://amzn.to/46CQcmF) (to prevent damage), [some fitted sheets](https://amzn.to/3LYbnFY) and a [pillow or two](https://amzn.to/4cke6Vg)
 3. Grab toilet supplies either some [toilet paper (avoid single ply)](https://amzn.to/3SK58cC) or get a [bidet AKA a jetspray](https://amzn.to/3YmXCWQ) <- This one works in HDH Grad Housing.
 4. Some [body wash](https://amzn.to/4fIsFVx) and [facewash](https://amzn.to/4fG8eZ3) if you didn't carry some
 5. Skincare wise you definitely want to grab some [sunscreen in the US, this is a cheap spray on one](https://amzn.to/3WHqLeR)
