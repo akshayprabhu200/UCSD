@@ -3,7 +3,7 @@ title: "Incoming International Grad Student FAQ"
 description: "A list of potential questions International Grad Students at UCSD may have"
 ---
 
-_**Disclaimer**: The information is the best of my knowledge, please confirm everything as far as possible at the time of your arrival_
+_**Disclaimer**: The information is the best of my knowledge, please confirm everything as far as possible at the time of your arrival. This post may contain affiliate links so we may receive compensation if you sign up for or purchase products linked to below. As an Amazon Associate, we can earn from qualifying purchases._
 
 ## Before Arriving in the US
 
