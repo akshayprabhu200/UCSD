@@ -7,7 +7,7 @@ description: "A list of products you might wish to purchase after landing here"
 
 **\*Disclaimer**: These are mostly products that either I or friends have used, buy at your own judgement This post may contain affiliate links so we may receive compensation if you sign up for or purchase products linked to below. As an Amazon Associate, we can earn from qualifying purchases\*
 
-### [Make to sign up for Amazon Prime Student (Free for Six Months)](https://amzn.to/3QtUOVV)
+### [Make to sign up for Amazon Prime Student (Free for Six Months)](https://amzn.to/3X3MbTQ)
 
 ### [Spending on Walmart and other stores? Sign up through Rakuten for cashback + $30 on your first purchase](https://www.rakuten.com/r/AKSHAY2473?eeid=28187)
 
